@@ -1,12 +1,16 @@
 {
-  "name": "kingdom_bot",
-  "version": "1.23.8",
-  "description": "A custom bot made for the United Kingdoms Discord by: Kaleb#2157.",
-  "main": "bot.js",
+  "name": "enragedpvp",
+  "version": "0.0.1",
+  "description": "A discord bot made by Kaleb#2157 for EnragedPvP",
+  "main": "index.js",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1"
   },
   "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "author": "Kaleb#2157",
   "license": "ISC"
 }
